@@ -1,0 +1,10 @@
+ Saving Quitting
+:w → Save the 
+
+:q → Quit vim
+
+:wq → Save  quit
+
+:q! → Quit without saving
+
+ZZ → Save  quit (alternative)
